@@ -25,7 +25,7 @@ trained, results you can defend.
 
 | | |
 |---|---|
-| **Currently building** | A fraud-detection pipeline in Python (`kepleng-fraud-detector`) |
+| **Currently building** | Learning Cisco ('Cisco') |
 | **Currently learning** | Model evaluation, feature engineering, and applied deep learning |
 | **Also exploring** | Systems programming in C++ and developer tooling |
 | **Open to** | Internships, research assistantships, and open-source collaboration |
