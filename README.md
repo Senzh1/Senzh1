@@ -4,7 +4,7 @@
 
 **Computer Science student · Machine Learning & AI**
 
-<sub>Learning in public — building ML pipelines, fraud detection models, and low-level systems in C++.</sub>
+<sub>Learning in public building ML pipelines, fraud detection models, and low-level systems in C++.</sub>
 
 <br>
 
@@ -25,7 +25,6 @@ trained, results you can defend.
 
 | | |
 |---|---|
-| **Currently building** | Learning Cisco ('Cisco') |
 | **Currently learning** | Model evaluation, feature engineering, and applied deep learning |
 | **Also exploring** | Systems programming in C++ and developer tooling |
 | **Open to** | Internships, research assistantships, and open-source collaboration |
@@ -71,6 +70,6 @@ trained, results you can defend.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelimmanuel/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Senzh1)
 
-<sub>Best reached by email — happy to talk about ML projects, collaboration, or opportunities.</sub>
+<sub>Best reached by email happy to talk about ML projects, collaboration, or opportunities.</sub>
 
 </div>
