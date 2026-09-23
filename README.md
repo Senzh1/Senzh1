@@ -10,7 +10,7 @@
 
 [![Profile](https://img.shields.io/badge/GitHub-Senzh1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Senzh1)
 [![Focus](https://img.shields.io/badge/Focus-Machine%20Learning-0969DA?style=flat-square)](https://github.com/Senzh1?tab=repositories)
-[![Status](https://img.shields.io/badge/Open%20to-Internships-2DA44E?style=flat-square)](mailto:your.email@example.com)
+[![Status](https://img.shields.io/badge/Open%20to-Internships-2DA44E?style=flat-square)](mailto:michael15010407@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=Senzh1&style=flat-square&color=6E7781&label=Profile+views)
 
 </div>
@@ -66,7 +66,7 @@ trained, results you can defend.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:michael15010407@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:michael15010407@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelimmanuel/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Senzh1)
 
