@@ -2,7 +2,7 @@
 
 # Senzhi
 
-**Computer Science student · Machine Learning & AI**
+**Artificial Intelligence student · Machine Learning**
 
 <sub>Learning in public building ML pipelines, fraud detection models, and low-level systems in C++.</sub>
 
@@ -19,7 +19,7 @@
 
 ## About
 
-I'm a CS student focused on machine learning and data-driven systems. Most of my time goes into
+I'm an Artificial Intelligence student focused on machine learning and data-driven systems. Most of my time goes into
 turning coursework and side projects into things that actually run end to end — data in, model
 trained, results you can defend.
 
