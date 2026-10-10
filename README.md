@@ -11,7 +11,7 @@
 [![Profile](https://img.shields.io/badge/GitHub-Senzh1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Senzh1)
 [![Focus](https://img.shields.io/badge/Focus-Machine%20Learning-0969DA?style=flat-square)](https://github.com/Senzh1?tab=repositories)
 [![Status](https://img.shields.io/badge/Open%20to-Internships-2DA44E?style=flat-square)](mailto:michael15010407@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=Senzh1&style=flat-square&color=6E7781&label=Profile+views)
+![Profile views](https://hits.sh/github.com/Senzh1.svg?style=flat-square&label=Profile%20views&color=6E7781)
 
 </div>
 
